@@ -8,8 +8,8 @@
 </head>
 <body>
     <h1>Aula JSP.</h1>  
-    <a href="pagina1.jsp">Expressões</a><br>
-    <a href="exemplo1.jsp">Conversão de Temperatura</a><br>
-    <a href="exemplo2.jsp">Cálculos Aritméticos</a><br>
+    <a href="pagina1.jsp">Express&otilde;es</a><br>
+    <a href="exemplo1.jsp">Convers&atilde;o de Temperatura</a><br>
+    <a href="exemplo2.jsp">C&aacute;lculos Aritm&eacute;ticos</a><br>
 </body>
 </html>

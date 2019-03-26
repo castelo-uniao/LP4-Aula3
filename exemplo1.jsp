@@ -7,13 +7,13 @@
     <title>JSP - Exemplo 1</title>
 </head>
 <body>
-    <h1>Conversão de Temperaturas:</h1>
+    <h1>Convers&atilde;o de Temperaturas:</h1>
     
     <%
     String valor = request.getParameter("Celcius");
     if(valor != null) {
         double f = Double.parseDouble(valor)*9/5+32;
-        out.println("<h2> Temperatura de " + valor + "c em fahrenheit:" + f + "f</h2><br />");
+        out.println("<h2> Temperatura de " + valor + "c em fahrenheit: " + f + "f</h2><br />");
     }
     %>
 
